@@ -10,5 +10,10 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
-	}
+	},
+	"author": "freeCodeCamp and forked by sebastianmr18",
+	"description": "A project to start my backend certificate",
+	"keywords": ["node", "express", "boilerplate", "freecodecamp"],
+	"license": "MIT",
+	"version": "1.0.0"
 }
